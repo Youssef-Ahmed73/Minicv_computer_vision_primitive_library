@@ -266,7 +266,6 @@ See docstrings in each module for full parameter documentation. Quick reference:
 
 ```bash
 # From the project root:
-python tests/test_all.py
+python minicv_test.py
 ```
 
-Expected output: **32 passed, 0 failed**, plus a result image saved to `/tmp/minicv_results.png`.
